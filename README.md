@@ -4,7 +4,7 @@
 ![](Images/GMM_4_Class_Distribution.png)
 
 # 2. Fisher LDA 
-![](Fisher_LDA.png)
+![](Images/Fisher_LDA.png)
 
 # 3. Gaussian Mixture Classification
 ![](Images/GMM_Dist.png)
